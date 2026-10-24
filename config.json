@@ -1,0 +1,22 @@
+{
+    "port": "auto",
+    "orientation": "landscape",
+    "brightness": 85,
+    "fps": 6.0,
+    "rotation_interval": 10,
+    "active_screens": [
+        "logo_time",
+        "weather",
+        "hardware",
+        "greeting",
+        "brand"
+    ],
+    "single_screen_mode": false,
+    "selected_single_screen": "logo_time",
+    "weather_city": "Santiago",
+    "weather_country": "Chile",
+    "cpu_name": "AMD Ryzen 7 5700G",
+    "gpu_name": "NVIDIA GeForce RTX 3070",
+    "ram_name": "32 GB DDR4",
+    "user_name": "Alan"
+}

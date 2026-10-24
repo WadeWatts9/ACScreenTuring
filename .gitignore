@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build directory and old onedir folder
+build/
+dist/JarvisScreenController/
+
+# Temporary candidate/test images
+logo_candidate_*.png
+test_*.png
+.write_test
